@@ -1,0 +1,8 @@
+@article{imai2016prevention,
+  title={Prevention of harmful algal blooms by algicidal bacteria associated with eelgrasses},
+  author={Imai, I and Yamamoto, T and Ishii, K and Inaba, N and Yamamoto, K},
+  journal={J Water Waste},
+  volume={58},
+  pages={295--300},
+  year={2016}
+}

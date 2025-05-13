@@ -1,0 +1,29 @@
+{
+    "data": [
+        { "id": "1003", "code": "244wgerg2", "name": "Gambierdiscus", "description": "Product Description", "image": "Lago_de_coatepeque_de_color.jpg", "price": 29, "category": "Clothing", "quantity": 25, "inventoryStatus": "INSTOCK", "rating": 5 },
+        {
+            "id": "1004",
+            "code": "h456wer53",
+            "name": "Karenia brevis",
+            "description": "Product Description",
+            "image": "Snipaste_2024-02-29_11-16-06.jpg",
+            "price": 15,
+            "category": "Accessories",
+            "quantity": 73,
+            "inventoryStatus": "INSTOCK",
+            "rating": 4
+        },
+        {
+            "id": "1005",
+            "code": "av2231fwg",
+            "name": "Pseudo-nitzschia",
+            "description": "Product Description",
+            "image": "Snipaste_2024-02-29_11-18-48.jpg",
+            "price": 120,
+            "category": "Accessories",
+            "quantity": 0,
+            "inventoryStatus": "OUTOFSTOCK",
+            "rating": 4
+        }
+    ]
+}

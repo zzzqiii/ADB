@@ -1,0 +1,16 @@
+{{ object.chemical.name }}
+{{ object.chemical.smiles }}
+{{ object.chemical.classification }}
+{{ object.chemical.casNumber }}
+{{ object.chemical.source }}
+{{ object.chemical.label}}
+{{ object.chemical.origin}}
+{{ object.algae_strain.species.name }}
+{{ object.algae_strain.species.environment }}
+{{ object.algae_taxonomy }}
+{{ object.response_endpoint }}
+{{ object.measurement}}
+{{ object.effect }}
+{{ object.reference.author }}
+{{ object.reference.publication_title }}
+{{ object.reference.publication_year }}

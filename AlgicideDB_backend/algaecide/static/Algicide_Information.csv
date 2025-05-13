@@ -1,0 +1,543 @@
+Name,Source,SMILES,Origin,NP,PubChem Link,Classification
+Sphinganine,Canola Straw decomposed by Trametes versicolor,CCCCCCCCCCCCCCC[C@H]([C@H](CO)N)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/91486,Fatty acids
+4-Acetamidobutyric acid,Brevibacillus sp.,CC(=O)NCCCC(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/18189,Fatty acids
+8-Hydroxyquinoline,Brevibacillus sp.,C1=CC2=C(C(=C1)O)N=CC=C2,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/1923,Alkaloids
+Hydroquinone,,C1=CC(=CC=C1O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/785,Phenols
+Artemisinin,Artemisia annua,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/68827,Terpenoids
+Ipomoea cairica extracts,Ipomoea cairica,,Plant,True,,Crude extracts
+Roseochelin B,Phaeobacter inhibens,COC1=CC(=CC(=C1O)OC)C2=CC(=CC3=C2C(=C(C(=C3SC)O)O)OC)C(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/139050884,Naphthalenes
+Linalool,"Cinnamomum camphora, Microcystis VOC",CC(=CCCC(C)(C=C)O)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/6549,Terpenoids
+Camphor,Cinnamomum camphora,CC1(C2CCC1(C(=O)C2)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/2537,Terpenoids
+Eucalyptol,Cinnamomum camphora,CC1(C2CCC(O1)(CC2)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/2758,Terpenoids
+Borneol,Cinnamomum camphora,CC1(C2CCC1(C(C2)O)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/64685,Terpenoids
+Berberine,,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/2353,Alkaloids
+Stachydrine,Chinese herb leonurus heterophyllus sweet,C[N+]1(CCC[C@H]1C(=O)[O-])C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/115244,Alkaloids
+Betaine,,C[N+](C)(C)CC(=O)[O-],Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/247,Amino acids and derivatives
+ε-polylysine,Streptomyces albulus,CCCCC[C@@H](C(=O)NC)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/58592376,Amino acids and derivatives
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-chlorophenyl) acetamide",,C1=CC(=CC=C1NC(=O)CSC2=NN=CS2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532467,Thioacetamide derivatives
+hydrogen peroxide,,OO,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/784,Peroxides
+peracetic acid,,CC(=O)OO,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/6585,Carboxylic acids
+potassium peroxymonosulfate,,,Synthetic,False,,Persulfate salts
+NIG355,Streptomyces malaysiensis O4-6,,Microorganism,True,,Polyethers
+Tryptamine,Streptomyces eurocidicus JXJ-0089,C1=CC=C2C(=C1)C(=CN2)CCN,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/1150,Alkaloids
+Tryptoline,Streptomyces eurocidicus JXJ-0089,C1CNCC2=C1C3=CC=CC=C3N2,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/107838,Alkaloids
+L-lysine,,C(CCN)C[C@@H](C(=O)O)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5962,Amino acids and derivatives
+"Hexadeca-4,7,10,13-tetraenoic acid",Ulva fasciata,CCC=CCC=CCC=CCC=CCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/71358585,Fatty acids
+"Octadeca-6,9,12,15-tetraenoic acid","Ulva fasciata, Ishige sinicola",CCC=CCC=CCC=CCC=CCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/163841,Fatty acids
+Linolenic acid,Ulva fasciata,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280934,Fatty acids
+PG-L-1,a bacterial strain (MS-02–063),,Microorganism,True,,Alkaloids
+Cyclo[Ala-Gly],Pseudoruegeria sp. M32A2M,CC1C(=O)NCC(=O)N1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/107297,Amino acids and derivatives
+N-phenyl-2-naphthylamine,Eichhornia crassipes,C1=CC=C(C=C1)NC2=CC3=CC=CC=C3C=C2,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8679,Naphthalenes
+mycosubtilins 1056,Bacillus sp. SY-1,,Microorganism,True,,Amino acids and derivatives
+mycosubtilins 1070,Bacillus sp. SY-1,,Microorganism,True,,Amino acids and derivatives
+mycosubtilins 1084,Bacillus sp. SY-1,,Microorganism,True,,Amino acids and derivatives
+ortho-tyrosine,Bacillus sp. B1,C1=CC=C(C(=C1)CC(C(=O)O)N)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/91482,Amino acids and derivatives
+urocanic acid,Bacillus sp. B1,C1=C(NC=N1)/C=C/C(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/736715,Alkaloids
+atrazine-desethyl,Microbacterium paraoxydans M1,CC(C)NC1=NC(=NC(=N1)N)Cl,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/22563,Alkaloids
+prodigiosin,"Enterobacter hormaechei F2, Hahella sp. KA22, Serratia marcescens LTH‐2",CCCCCC1=C(NC(=C1)/C=C\2/C(=CC(=N2)C3=CC=CN3)OC)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/135455579,Alkaloids
+IRI-160AA,Shewanella sp. IRI-160,,Microorganism,True,,Crude extracts
+Bacillomycin D,Bacillus subtilis,CCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)[C@@H](C)O)CO)CCC(=O)O)CC(=O)N)CC3=CC=C(C=C3)O)CC(=O)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/3086051,Amino acids and derivatives
+nostocarboline,Nostoc 78-12A,C[N+]1=CC2=C(C=C1)C3=C(N2)C=CC(=C3)Cl,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5326150,Alkaloids
+Fischerellin A,Fischerella muscicola,CCCCCC#CC#C/C=C/CC(C)C[C@H]1C[C@H](C(=N1)C2=C(C(N(C2=O)C)C)O)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/139587195,Fatty acids
+copper sulfate,,[O-]S(=O)(=O)[O-].[Cu+2],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/24462,Metal compounds
+sodium hypochlorite,,[O-]Cl.[Na+],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/23665760,Metal compounds
+palmitoleic acid,"Vibrio sp. BS02, Ulva fasciata, Ulva pertusa",CCCCCC/C=C\CCCCCCCC(=O)O,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/445638,Fatty acids
+1-acetyl-β-carboline,Brachybacterium sp. YS-3,CC(=O)C1=NC=CC2=C1NC3=CC=CC=C23,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/638667,Fatty acids
+Bacillamide,Bacillus sp. SY-1,CC(=O)C1=NC(=CS1)C(=O)NCCC2=CNC3=CC=CC=C32,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/11077881,Alkaloids
+Chelirubine,,C[N+]1=CC2=C3C(=CC(=C2C4=C1C5=CC6=C(C=C5C=C4)OCO6)OC)OCO3,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/161243,Alkaloids
+Chelerythrine,,C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/2703,Alkaloids
+Sanguinarine,Sanguinaria canadensis,C[N+]1=C2C(=C3C=CC4=C(C3=C1)OCO4)C=CC5=CC6=C(C=C52)OCO6,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5154,Alkaloids
+Coptisine,,C1C[N+]2=C(C=C3C=CC4=C(C3=C2)OCO4)C5=CC6=C(C=C51)OCO6,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/72322,Alkaloids
+Pyrogallol,Myriophyllum spicatum,C1=CC(=C(C(=C1)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/1057,Phenols
+Gallic acid,Myriophyllum spicatum,C1=C(C=C(C(=C1O)O)O)C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/370,Phenolic acids
+(+)-catechin,Myriophyllum spicatum,C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/9064,Flavonoids
+Ellagic acid,Myriophyllum spicatum,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281855,Phenolic acids
+Ethyl 2-methylacetoacetate,"Phragmitis australis Trin, Phragmites communis",CCOC(=O)C(C)C(=O)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/701,Fatty acids
+"15,16-Epoxy-8(17),13(16),14-ent-labdatrien-20,19-olide",Potamogeton natans,C[C@@]12CCC[C@@]3([C@@H]1CCC(=C)[C@H]3CCC4=COC=C4)C(=O)OC2,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5742898,Terpenoids
+"19-Acetoxy-15,16-epoxy-8(17),13(16),14-ent-labdatrien-20-al",Potamogeton natans,CC(=O)OC[C@@]1(CCC[C@@]2([C@@H]1CCC(=C)[C@H]2CCC3=COC=C3)C=O)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/485584,Terpenoids
+"12(S)-Hydroxy-15,16-epoxy-8(17),13(16),14-ent-labdatrien-20,19-olide",Potamogeton natans,C[C@@]12CCC[C@@]3([C@@H]1CCC(=C)[C@H]3C[C@@H](C4=COC=C4)O)C(=O)OC2,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/12011178,Terpenoids
+"10α,19-Dihydroxy-15,16-epoxy-8(17),13(16),14-nor-ent-labdatriene",Potamogeton natans,C[C@]1(CCC[C@@]2(C1CCC(=C)[C@H]2CCC3=COC=C3)O)CO,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/11822861,Terpenoids
+"19,20-Dihydroxy-15,16-epoxy-8(17),13(16),14-ent-labdatriene",Potamogeton natans,C[C@]1(CCC[C@@]2(C1CCC(=C)[C@H]2CCC3=COC=C3)CO)CO,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/11001667,Terpenoids
+Nonanoic acid,Myriophyllum spicatum,CCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8158,Fatty acids
+cis-6-Octadecenoic acid,Myriophyllum spicatum,CCCCCCCCCCC/C=C\CCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281125,Fatty acids
+cis-9-Octadecenoic acid,Myriophyllum spicatum,CCCCCCCC/C=C\CCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/445639,Fatty acids
+eucalyptol,Microcystis VOC,CC1(C2CCC(O1)(CC2)C)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/2758,Terpenoids
+β-cyclocitral,Microcystis VOC,CC1=C(C(CCC1)(C)C)C=O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/9895,Terpenoids
+N-Phenyl-1-naphthylamine,Eichhornia crassipes,C1=CC=C(C=C1)NC2=CC=CC3=CC=CC=C32,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/7013,Naphthalenes
+gramine,giant reed (Arundo donax),CN(C)CC1=CNC2=CC=CC=C21,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/6890,Alkaloids
+2-Phenyl-phenol,barley straw,C1=CC=C(C=C1)C2=CC=CC=C2O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/7017,Phenols
+Benzaldehyde,barley straw,C1=CC=C(C=C1)C=O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/240,Others
+3-Methylbutanoic acid,barley straw,CC(C)CC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10430,Fatty acids
+p-Cresol,barley straw,CC1=CC=C(C=C1)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/2879,Phenols
+2-Methylbutanoic acid,barley straw,CCC(C)C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8314,Fatty acids
+Benzoic acid,"barley straw, Thalassospira sp. ZR-2",C1=CC=C(C=C1)C(=O)O,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/243,Phenolic acids
+Heptanoic acid,barley straw,CCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8094,Fatty acids
+Benzyl cyanide,barley straw,C1=CC=C(C=C1)CC#N,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8794,Benzyl cyanides
+Trans-cinnamic acid,barley straw,C1=CC=C(C=C1)/C=C/C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/444539,Phenylpropanoids
+Acetophenone,barley straw,CC(=O)C1=CC=CC=C1,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/7410,Others
+Hexanoic acid,barley straw,CCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8892,Fatty acids
+salcolin A,barley straw,COC1=CC(=CC(=C1O[C@@H](CO)[C@H](C2=CC(=C(C=C2)O)OC)O)OC)C3=CC(=O)C4=C(C=C(C=C4O3)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/21575482,Flavonoids
+salcolin B,barley straw,COC1=CC(=CC(=C1O[C@@H](CO)[C@H](C2=CC(=C(C=C2)O)OC)O)OC)C3=CC(=O)C4=C(C=C(C=C4O3)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/21575482,Flavonoids
+Neo-przewaquinone A,Salvia miltiorrhiza,C/C/1=C\CCC2=C(C=CC3=C2C(=O)C(=O)C4=C3OC=C4C)C(=C)CCCC5=C1C=CC6=C5C(=O)C(=O)C7=C6OC=C7C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/56932940,Naphthalenes
+ferulic acid,,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/445858,Phenylpropanoids
+"3,3’,5,5’-tetrabromo-2,2’-biphenyldiol",Microbulbifer sp. RZ01,C1=C(C=C(C(=C1C2=C(C(=CC(=C2)Br)Br)O)O)Br)Br,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/30891,Plastoquinone
+Cyclo-(Gly-Pro),"Stenotrophomonas F6, Bacillus sp. Ts-12",C1C[C@H]2C(=O)NCC(=O)N2C1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/126154,Alkaloids
+"1,2-benzenediol",Canola straw,C1=CC=C(C(=C1)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/289,Phenols
+3-indoleacrylic acid,"Canola straw, Rhodococcus sp. strain p52",C1=CC=C2C(=C1)C(=CN2)/C=C/C(=O)O,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5375048,Alkaloids
+"5, 4'-dihydroxyflavone",Lancea tibetica (Mazaceae),C1=CC(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/165521,Flavonoids
+Apigenin,,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280443,Flavonoids
+Luteolin,,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280445,Flavonoids
+phytosphingosine,Canola Straw decomposed by Trametes versicolor,CCCCCCCCCCCCCC[C@H]([C@H]([C@H](CO)N)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/122121,Fatty acids
+sphingosine,Canola Straw decomposed by Trametes versicolor,CCCCCCCCCCCCC/C=C/[C@H]([C@H](CO)N)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280335,Fatty acids
+N-acetylsphingosine,Canola Straw decomposed by Trametes versicolor,CCCCCCCCCCCCC/C=C/[C@H]([C@H](CO)NC(=O)C)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5497136,Fatty acids
+l-methionine,Canola Straw decomposed by Trametes versicolor,CSCC[C@@H](C(=O)O)N,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/6137,Amino acids and derivatives
+choline alfoscerate,Canola Straw decomposed by Trametes versicolor,C[N+](C)(C)CCOP(=O)([O-])OC[C@@H](CO)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/657272,Fatty acids
+3-hydroxyanthranilic acid,Canola Straw decomposed by Trametes versicolor,C1=CC(=C(C(=C1)O)N)C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/86,Amino acids and derivatives
+DL-alanyl-DL-phenylalanine,Canola Straw decomposed by Trametes versicolor,CC(C(=O)NC(CC1=CC=CC=C1)C(=O)O)N,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/2080,Amino acids and derivatives
+cinnamic acid,Canola straw,C1=CC=C(C=C1)/C=C/C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/444539,Phenylpropanoids
+chlorogenic acid,Canola straw,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/1794427,Phenylpropanoids
+methylmalonic acid,Canola straw,CC(C(=O)O)C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/487,Fatty acids
+linoleic acid,"Canola straw, Ulva fasciata, Ulva pertusa, Gracilaria lemaneiformis",CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280450,Fatty acids
+succinic acid,Canola straw,C(CC(=O)O)C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/1110,Fatty acids
+L-phenylalanine,Canola straw,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/6140,Amino acids and derivatives
+Kandelia obovata leaf extract,Kandelia obovata,,Plant,True,,Crude extracts
+Fermentation broth of Streptomyces sp. U3,Streptomyces sp. U3,,Microorganism,True,,Crude extracts
+copper ethanolamine,,C(CO)N.[Cu],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/10219430,Metal compounds
+5-benzylidenerhodanine,,C1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/1273210,Rhodanine derivatives
+5-(2-chlorobenzylidene)-rhodanine,,C1=CC=C(C(=C1)C=C2C(=O)NC(=S)S2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2787053,Rhodanine derivatives
+5-(3-chlorobenzylidene)-rhodanine,,C1=CC(=CC(=C1)Cl)C=C2C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3876430,Rhodanine derivatives
+5-(2-bromobenzylidene)-rhodanine,,C1=CC=C(C(=C1)C=C2C(=O)NC(=S)S2)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2864576,Rhodanine derivatives
+5-(3-bromobenzylidene)-rhodanine,,C1=CC(=CC(=C1)Br)C=C2C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2839103,Rhodanine derivatives
+5-(4-bromobenzylidene)-rhodanine,,C1=CC(=CC=C1C=C2C(=O)NC(=S)S2)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2787036,Rhodanine derivatives
+5-(2-fluorobenzylidene)-rhodanine,,C1=CC=C(C(=C1)/C=C/2\C(=O)N(C(=S)S2)C(=O)C3=CC=CC=C3Cl)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5372459,Rhodanine derivatives
+5-(4-bitrobenzylidene)-rhodanine,,C1=C(C=CC(=C1)[N+](=O)[O-])/C=C\2/C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/1286262,Rhodanine derivatives
+5-(2-methylbenzylidene)-rhodanine,,CC1=CC=CC=C1C=C2C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3541324,Rhodanine derivatives
+5-(2-hydroxybenzylidene)-rhodanine,,C1CC1N2C(=O)/C(=C\C3=CC=CC=C3O)/SC2=S,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/44725553,Rhodanine derivatives
+5-(3-methoxybenzylidene)-rhodanine,,COC1=CC=CC(=C1)C=C2C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3095430,Rhodanine derivatives
+"5-(2,5-dichlorobenzylidene)-rhodanine",,C1=CC(=C(C=C1Cl)C=C2C(=O)NC(=S)S2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/4992653,Rhodanine derivatives
+"5-(2,6-dichlorobenzylidene)-rhodanine",,C1=CC(=C(C(=C1)Cl)C=C2C(=O)NC(=S)S2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3096175,Rhodanine derivatives
+"5-(3,4-dichlorobenzylidene)-rhodanine",,C1=CC(=C(C=C1C=C2C(=O)NC(=S)S2)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2796950,Rhodanine derivatives
+"5-(3,5-dichlorobenzylidene)-rhodanine",,C1=C(C=C(C=C1Cl)Cl)C=C2C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/47298361,Rhodanine derivatives
+"5-(2,4-dichlorobenzylidene)-rhodanine",,C1=CC(=C(C=C1Cl)Cl)C=C2C(=O)NC(=S)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2787967,Rhodanine derivatives
+"5-(2,6-difluorobenzylidene)-rhodanine",,C1=CC(=C(C(=C1)F)C=C2C(=O)NC(=S)S2)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/4131394,Rhodanine derivatives
+"5-(3,4-difluorobenzylidene)-rhodanine",,C1=CC(=C(C=C1C=C2C(=O)NC(=S)S2)F)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/44482721,Rhodanine derivatives
+5-(4-chloro-3-fluorobenzylidene)-rhodanine,,C1=CC(=C(C=C1C=C2C(=O)NC(=S)S2)F)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/133064695,Rhodanine derivatives
+5-(3-fluoro-4-methylbenzylidene)-rhodanine,,CC1=C(C=C(C=C1)C=C2C(=O)NC(=S)S2)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/133064735,Rhodanine derivatives
+3'-hydroxyflavone,,C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/11349,Flavonoids
+"4', 5, 7-trihydroxyflavanone",,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/439246,Flavonoids
+5-hydroxyflavone,,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=CC=C3O2)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/68112,Flavonoids
+6-hydroxyflavone,,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=CC(=C3)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/72279,Flavonoids
+7-hydroxyflavone,,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C=C3)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281894,Flavonoids
+Chrysin,,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281607,Flavonoids
+Formononetin,,COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280378,Isoflavonoids
+Quercetin,,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280343,Flavonoids
+"4', 7-dihydroxyisoflavone",,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281708,Isoflavonoids
+Baicalein,,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281605,Flavonoids
+Flavone,,C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10680,Flavonoids
+"4', 5, 7-trihydroxyisoflavone",,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280961,Isoflavonoids
+Kaempferol,,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280863,Flavonoids
+Myricetin,,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281672,Flavonoids
+7-isopropoxyisoflavone,,CC(C)OC1=CC2=C(C=C1)C(=O)C(=CO2)C3=CC=CC=C3,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/3747,Isoflavonoids
+"(E)-1,3-dimethoxy-5-(4-nitrostyryl)benzene",,COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)[N+](=O)[O-])OC,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/14256046,Stilbene analogues
+"(E)-4-(3,5-dimethoxystyryl)aniline",,COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)N)OC,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/18785180,Stilbene analogues
+"(Z)-1,3-dimethoxy-5-(4-nitrostyryl)benzene",,COC1=CC(=CC(=C1)OC)/C=C\C2=CC=C(C=C2)[N+](=O)[O-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/24987797,Stilbene analogues
+"(Z)-4-(3,5-dimethoxystyryl)aniline",,COC1=CC(=CC(=C1)OC)/C=C\C2=CC=C(C=C2)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/11747202,Stilbene analogues
+"(E)-4-(3,5-Dimethoxystyryl)benzenethiol",,COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)S)OC,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/25111366,Stilbene analogues
+"(E)-Phenethyl 3-(3,4-dihydroxyphenyl)acrylate",,C1=CC=C(C=C1)CCOC(=O)/C=C/C2=CC(=C(C=C2)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5281787,Caffeic acid derivatives
+"Ethyl (E)-3-(3,4-dihydroxyphenyl)acrylate",,CCOC(=O)/C=C/C1=CC(=C(C=C1)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5317238,Caffeic acid derivatives
+"Cyclohexyl (E)-3-(3,4-dihydroxyphenyl)acrylate",,C1CCC(CC1)OC(=O)/C=C/C2=CC(=C(C=C2)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/24745678,Caffeic acid derivatives
+"(E)-3-(3,4-Dihydroxyphenyl)-N,N-diisopropylacrylamide",,CC(C)N(C(C)C)C(=O)/C=C/C1=CC(=C(C=C1)O)O,Synthetic,False,,Caffeic acid derivatives
+"(E)-N-Benzyl-3-(3,4-dihydroxyphenyl)acrylamide",,C1=CC=C(C=C1)CNC(=O)/C=C/C2=CC(=C(C=C2)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/13644537,Caffeic acid derivatives
+"(E)-3-(3,4-Dihydroxyphenyl)-N,N-dipropylacrylamide",,CCCN(CCC)C(=O)/C=C/C1=CC(=C(C=C1)O)O,Synthetic,False,,Caffeic acid derivatives
+"(E)-3-(3,4-Dihydroxyphenyl)-N-ethylacrylamide",,CCNC(=O)/C=C/C1=CC(=C(C=C1)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/15086372,Caffeic acid derivatives
+"(E)-3-(3,4-Dihydroxyphenyl)acrylamide hydrate",,,Synthetic,False,,Caffeic acid derivatives
+"(E)-3-(3,4-Dihydroxyphenyl)-N-(p-tolyl)acrylamide",,CC1=CC=C(C=C1)NC(=O)/C=C/C2=CC(=C(C=C2)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/46703062,Caffeic acid derivatives
+"(E)-N,N-Dibutyl-3-(3,4-dihydroxyphenyl)acrylamide",,CCCCN(CCCC)C(=O)/C=C/C1=CC(=C(C=C1)O)O,Synthetic,False,,Caffeic acid derivatives
+4-Nitrophenyl cinnamate,,C1=CC=C(C=C1)C=CC(=O)OC2=CC=C(C=C2)[N+](=O)[O-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/318224,Cinnamic acid derivatives
+"3,4,5-Trinitrophenyl cinnamate",,C1=CC=C(C=C1)/C=C/C(=O)OC2=C(C=C(C=C2[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],Synthetic,False,,Cinnamic acid derivatives
+tert-Butyl cinnamate,,CC(C)(C)OC(=O)C=CC1=CC=CC=C1,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/347555,Cinnamic acid derivatives
+Cyclohexyl cinnamate,,C1CCC(CC1)OC(=O)/C=C/C2=CC=CC=C2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5357153,Cinnamic acid derivatives
+Ethyl cinnamate,,CCOC(=O)/C=C/C1=CC=CC=C1,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/637758,Cinnamic acid derivatives
+Naphthalen-2-yl cinnamate,,C1=CC=C(C=C1)C=CC(=O)OC2=CC3=CC=CC=C3C=C2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/785214,Cinnamic acid derivatives
+Isopropyl cinnamate,,CC(C)OC(=O)/C=C/C1=CC=CC=C1,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5273464,Cinnamic acid derivatives
+Butyl cinnamate,,CCCCOC(=O)/C=C/C1=CC=CC=C1,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5273465,Cinnamic acid derivatives
+Isobutyl cinnamate,,CC(C)COC(=O)/C=C/C1=CC=CC=C1,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/778574,Cinnamic acid derivatives
+Phenethyl cinnamate,,C1=CC=C(C=C1)CCOC(=O)/C=C/C2=CC=CC=C2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5369459,Cinnamic acid derivatives
+Methyl cinnamate,,COC(=O)/C=C/C1=CC=CC=C1,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/637520,Cinnamic acid derivatives
+Octyl cinnamate,,CCCCCCCCOC(=O)/C=C/C1=CC=CC=C1,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5273468,Cinnamic acid derivatives
+"2H-Naphtho[2,3-b]oxet-2-one",,C1=CC=C2C=C3C(=CC2=C1)C(=O)O3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/13834861,3-Hydroxy-2-naphthoic acid derivatives
+Methyl 3-hydroxy-2-naphthoate,,COC(=O)C1=CC2=CC=CC=C2C=C1O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/70163,3-Hydroxy-2-naphthoic acid derivatives
+Phenethyl 3-hydroxy-2-naphthoate,,C1=CC=C(C=C1)COC(=O)C2=C(C=C3C=CC=CC3=C2)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/46703062,3-Hydroxy-2-naphthoic acid derivatives
+Isopropyl 3-hydroxy-2-naphthoate,,CC(C)OC(=O)C1=CC2=CC=CC=C2C=C1O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/21267735,3-Hydroxy-2-naphthoic acid derivatives
+Butyl 3-hydroxy-2-naphthoate,,CCCCOC(=O)C1=C(C=C2C=CC=CC2=C1)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/250130,3-Hydroxy-2-naphthoic acid derivatives
+Cyclohexyl 3-hydroxy-2-naphthoate,,C1CCC(CC1)OC(=O)C2=C(C=C3C=CC=CC3=C2)O,Synthetic,False,,3-Hydroxy-2-naphthoic acid derivatives
+Octyl 3-hydroxy-2-naphthoate,,CCCCCCCCOC(=O)C1=C(C=C2C=CC=CC2=C1)O,Synthetic,False,,3-Hydroxy-2-naphthoic acid derivatives
+caffeic acid,,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/689043,Phenylpropanoids
+3-Hydroxy-2-naphthoic acid,,C1=CC=C2C=C(C(=CC2=C1)C(=O)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/7104,Naphthalenes
+Pexiganan,,CC[C@H](C)[C@@H](C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)CN,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/16132253,Amino acids and derivatives
+LL-37,,,Animal,True,,Amino acids and derivatives
+h-Lf1–11,,,Synthetic,False,,Amino acids and derivatives
+Cecropin B,Insecta,CC[C@H](C)[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C)C(=O)NCC(=O)N1CCC[C@H]1C(=O)N[C@@H](C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(C)C)C(=O)N)NC(=O)CNC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)CNC(=O)[C@H](CCSC)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CCCCN)N,Animal,True,https://pubchem.ncbi.nlm.nih.gov/compound/16130488,Amino acids and derivatives
+salicylic acid carried by cross-linked chitosan,,,Synthetic,False,,Others
+salicylic acid,,C1=CC=C(C(=C1)C(=O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/338,Phenolic acids
+C29H48O3,Oscillatoria late-virens,,Microorganism,True,,Phenols
+N-[[2-(2-hydroxybenzoyl)hydrazino]carbothioyl] benzamide,,C1=CC=C(C=C1)C(=O)NC(=S)NNC(=O)C2=C(C=CC=C2)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2136521,Thiourea derivatives
+N-[[2-(2-hydroxybenzoyl)hydrazino]carbothioyl]-4-chlorobenzamide,,C1=CC(=C(C=C1)O)C(=O)NNC(=S)NC(=O)C2=CC=C(C=C2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3545074,Thiourea derivatives
+N-[[2-(2-hydroxybenzoyl)hydrazino]carbothioyl]-4-fluorobenzamide,,C1=CC(=C(C=C1)O)C(=O)NNC(=S)NC(=O)C2=CC=C(C=C2)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/1933071,Thiourea derivatives
+"N-[[2-(2,4-dihydroxybenzoyl)hydrazino]carbonothioyl]benzamide",,C1=CC=C(C=C1)C(=O)NC(=S)NNC(=O)C2=C(C=C(C=C2)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/1986475,Thiourea derivatives
+N-[[2-(3-nitrobenzoyl)hydrazino]carbothioyl] benzamide,,C1=CC=C(C=C1)C(=O)NC(=S)NNC(=O)C2=CC=CC(=C2)[N+](=O)[O-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3132894,Thiourea derivatives
+N-[[2-(3-bromobenzoyl)hydrazino]carbothioyl] benzamide,,C1=CC=C(C=C1)C(=O)NC(=S)NNC(=O)C2=CC=CC(=C2)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/141486911,Thiourea derivatives
+N-[[2-(4-fluororbenzoyl)hydrazino]carbothioyl] benzamide,,C1=CC=C(C=C1)C(=O)NC(=S)NNC(=O)C2=CC=C(C=C2)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/141486910,Thiourea derivatives
+N-[[2-(4-bromobenzoyl)hydrazino]carbothioyl] benzamide,,C1=CC=C(C=C1)C(=O)NC(=S)NNC(=O)C2=CC=C(C=C2)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/141486912,Thiourea derivatives
+N-[[2-(4-nitrobenzoyl)hydrazino]carbothioyl] benzamide,,C1=CC=C(C=C1)C(=O)NC(=S)NNC(=O)C2=CC=C(C=C2)[N+](=O)[O-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3132895,Thiourea derivatives
+Seselin,Swinglea glutinosa,CC1(C=CC2=C(O1)C=CC3=C2OC(=O)C=C3)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/68229,Coumarins
+5-Methoxyseselin,Swinglea glutinosa,CC1(C=CC2=C3C(=C(C=C2O1)OC)C=CC(=O)O3)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/290897,Coumarins
+"6-(3,3-Dimethylallil)seselin",Swinglea glutinosa,CC(=CCC1=C2C(=C3C(=C1)C=CC(=O)O3)C=CC(O2)(C)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/44556806,Coumarins
+Citibrasine,Swinglea glutinosa,CN1C2=C(C=CC=C2O)C(=O)C3=C1C(=C(C(=C3O)OC)OC)OC,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/19093029,Alkaloids
+"4-chloro-N-[2-(1,3,4-thiadiazol-2-ylsulfanyl)ethenyl]aniline",,C1=C(C=CC(=C1)NC(=O)CSC2=NN=C(SCC(=O)NC3=CC=C(C=C3)Cl)S2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/1811393,Thioacetamide derivatives
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-phenylacetamide",,C1=CC=C(C=C1)NC(=O)CSC2=NN=CS2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532405,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-fluorophenyl)acetami de",,C1=C(C=CC(=C1)NC(=O)CSC2=NN=CS2)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532409,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-chlorophenyl)acetami de",,C1=C(C=CC(=C1)NC(=O)CSC2=NN=CS2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532467,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-bromophenyl)acetam ideide",,C1=C(C=CC(=C1)NC(=O)CSC2=NN=CS2)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532258,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-iodophenyl)acetamide",,C1=C(C=CC(=C1)NC(=O)CSC2=NN=CS2)I,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532372,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(p-tolyl)acetamide",,CC1=CC=C(C=C1)NC(=O)CSC2=NN=CS2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532328,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-methoxyphenyl)ace -tamide",,COC1=CC=C(C=C1)NC(=O)CSC2=NN=CS2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532342,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-(trifluoromethyl) phenyl)acetamide",,C1=C(C=CC(=C1)NC(=O)CSC2=NN=CS2)C(F)(F)F,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/35987370,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(4-nitrophenyl)acetamide",,C1=C(C=CC(=C1)[N+](=O)[O-])NC(=O)CSC2=NN=CS2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/4814806,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(3-chlorophenyl)acetam-ide",,C1=CC(=CC(=C1)NC(=O)CSC2=NN=CS2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532423,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(3-bromophenyl)aceta-mide",,C1=CC(=CC(=C1)NC(=O)CSC2=NN=CS2)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532321,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(m-tolyl)acetamide",,CC1=CC=CC(=C1)NC(=O)CSC2=NN=CS2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532302,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(3-methoxyphenyl)acet-amide",,COC1=CC(=CC=C1)NC(=O)CSC2=NN=CS2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532300,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(2-bromophenyl)acetamide",,C1=CC(=C(C=C1)NC(=O)CSC2=NN=CS2)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532521,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(2-methoxyphenyl)aceta-mide",,COC1=CC=CC=C1NC(=O)CSC2=NN=CS2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532444,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(2,4-dichlorophenyl)acetamide",,C1=C(C=C(C(=C1)NC(=O)CSC2=NN=CS2)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532454,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(2,3-dichlorophenyl)acetamide",,C1=CC(=C(C(=C1)NC(=O)CSC2=NN=CS2)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532457,Thioacetamide analogues
+"2-((1,3,4-thiadiazol-2-yl)thio)-N-(3,5-dichlorophenyl)acetamide",,C1=C(C=C(C=C1Cl)NC(=O)CSC2=NN=CS2)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2532366,Thioacetamide analogues
+prometryn,,CC(C)NC1=NC(=NC(=N1)SC)NC(C)C,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/4929,Triazines
+microbial algicide from actinomycete,Streptomyces alboflavus,,Microorganism,True,,Crude extracts
+Shewanella IRI-160 cultures,,,Microorganism,True,,Crude extracts
+Paucibacter aquatile DH15 cultures,Paucibacter aquatile DH15,,Microorganism,True,,Crude extracts
+harmane,Pseudomonas sp. K44-1,CC1=NC=CC2=C1NC3=CC=CC=C23,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281404,Alkaloids
+"2-((5-phenyl-1,3,4-thiadiazol-2-yl)thio)-N-(4-chlorophenyl)-acetamide",,C1=CC=C(C=C1)C2=NN=C(SCC(=O)NC3=CC=C(C=C3)Cl)S2,Synthetic,False,,Thioacetamide derivatives
+"2-((5-phenyl-1,3,4-thiadiazol-2-yl)thio)-N-(4-bromophenyl)-acetamide",,C1=CC=C(C=C1)C2=NN=C(SCC(=O)NC3=CC=C(C=C3)Cl)S2,Synthetic,False,,Thioacetamide derivatives
+"2-((5-phenyl-1,3,4-thiadiazol-2-yl)thio)-N-(4-iodophenyl)-acetamide",,C1=CC=C(C=C1)C2=NN=C(SCC(=O)NC3=CC=C(C=C3)I)S2,Synthetic,False,,Thioacetamide derivatives
+"2-((5-phenyl-1,3,4-oxadiazol-2-yl)thio)-N-(4-chlorophenyl)-acetamide",,C1=CC=C(C=C1)C2=NN=C(O2)SCC(=O)NC3=CC=C(C=C3)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/779644,Thioacetamide derivatives
+"2-((5-phenyl-1,3,4-oxadiazol-2-yl)thio)-N-(4-bromophenyl)-acetamide",,C1=CC=C(C=C1)C2=NN=C(O2)SCC(=O)NC3=CC=C(C=C3)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/1112655,Thioacetamide derivatives
+"2-((5-phenyl-1,3,4-oxadiazol-2-yl)thio)-N-(4-iodophenyl)-acetamide",,C1=CC=C(C=C1)C2=NN=C(O2)SCC(=O)NC3=CC=C(C=C3)I,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2614317,Thioacetamide derivatives
+"2-((4-amino-5-phenyl-4H-1,2,4-triazol-3-yl)thio)-N-(4-chlorophenyl)acetamide",,C1=CC=C(C=C1)C2=NN=C(N2N)SCC(=O)NC3=CC=C(C=C3)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2024256,Thioacetamide derivatives
+"2-((4-amino-5-phenyl-4H-1,2,4-triazol-3-yl)thio)-N-(4-bromophenyl)acetamide",,C1=CC=C(C=C1)C2=NN=C(N2N)SCC(=O)NC3=CC=C(C=C3)Br,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/1043211,Thioacetamide derivatives
+"2-((4-amino-5-phenyl-4H-1,2,4-triazol-3-yl)thio)-N-(4-iodophenyl)acetamide",,C1=CC=C(C=C1)C2=NN=C(N2N)SCC(=O)NC3=CC=C(C=C3)I,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/21369601,Thioacetamide derivatives
+Bacillamide A,Bacillus sp.,CC(=O)C1=NC(=CS1)C(=O)NCCC2=CNC3=CC=CC=C32,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/11077881,Alkaloids
+Bacillamide B,Bacillus sp.,C[C@H](C1=NC(=CS1)C(=O)NCCC2=CNC3=CC=CC=C32)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/24178902,Alkaloids
+Bacillamide C,Bacillus sp.,C[C@H](C1=NC(=CS1)C(=O)NCCC2=CNC3=CC=CC=C32)NC(=O)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/24178996,Alkaloids
+N-(2-(1H-indol-3-yl)ethyl)-2-acetylthiazole-4-carboxamide,Thermoactinomyces strain TM-64,C[C@H](C1=NC(=CS1)C(=O)NCCC2=CNC3=CC=CC=C32)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/149301975,Alkaloids
+Neobacillamide A,Bacillus vallismortis C89,C[C@H](C1=NC(=CS1)C(=O)NCCC2=CC=CC=C2)NC(=O)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/102422570,Alkaloids
+(S)-2-(1-Hydroxyethyl)-N-iso-butylthiazole-4-carboxamide,,CCCCNC(=O)C1=CSC(=N1)[C@H](C)O,Synthetic,False,,Bacillamide analogues
+(S)-2-(1-Hydroxyethyl)-N-phenylethylthiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NCCC2=CC=CC=C2)O,Synthetic,False,,Bacillamide analogues
+(S)-N-Benzyl-2-(1-hydroxyethyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NCC2=CC=CC=C2)O,Synthetic,False,,Bacillamide analogues
+(S)-2-(1-Hydroxyethyl)-N-phenylthiazole-4-carboxamide,,CC(C1=NC(=CS1)C(=O)NC2=CC=CC=C2)O,Synthetic,False,,Bacillamide analogues
+2-Acetyl-N-benzylthiazole-4-carboxamide,,CC(=O)C1=NC(=CS1)C(=O)NCC2=CC=CC=C2,Synthetic,False,,Bacillamide analogues
+2-Acetyl-N-phenyl-thiazole-4-carboxamide,,CC(=O)C1=NC(=CS1)C(=O)NC2=CC=CC=C2,Synthetic,False,,Bacillamide analogues
+Phthalocyanine 2.1,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 2.2,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 2.3,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 8.1,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 8.4,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 8.3,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 10.2,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 5.2,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 8.2,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 8.5,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 10.1,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 11.1,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 11.3,,,Synthetic,False,,Phthalocyanine derivatives
+Phthalocyanine 11.4,,,Synthetic,False,,Phthalocyanine derivatives
+lysine malonate,,,Synthetic,False,,Amino acids and derivatives
+lysine copper,,C(CCN)C[C@@H](C(=O)O)N.[Cu],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/57428913,Amino acids and derivatives
+Cinnamomum camphora fresh leaf methanol extracts,Cinnamomum camphora,,Plant,True,,Crude extracts
+anthraquinone,,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/6780,Polyketides
+"2-[N-(1′-Methyl-4′-N,N-diethylaminobutyl)aminomethyl]anthraquinone",,CCN(CC)CCCC(C)NCC1=CC=C2C(=C1)C(=O)C3=C(C=CC=C3)C2=O,Synthetic,False,,Anthraquinone analogues
+2-[N-(1′-Methylethyl)aminomethyl]anthraquinone,,CC(C)NCC1=CC2=C(C=C1)C(=O)C3=C(C=CC=C3)C2=O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/11559868,Anthraquinone analogues
+Diquat,,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/6795,Pyridinium derivatives
+Paraquat,,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/15939,Bipyridines and oligopyridines
+Cinmethylin,,CC1=CC=CC=C1CO[C@@H]2C[C@]3(CC[C@@]2(O3)C)C(C)C,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/91745,Terpenoids
+Diclofop,,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/38687,2-Phenoxypropionic acids
+Diuron,,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3120,N-phenylureas
+sodium carbonate peroxyhydrate,,C(=O)([O-])[O-].C(=O)([O-])[O-].OO.OO.OO.[Na+].[Na+].[Na+].[Na+],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/159762,Metal compounds
+indole,"biofilm extract, Arundo donax",C1=CC=C2C(=C1)C=CN2,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/798,Alkaloids
+3-oxo-α-ionone,biofilm extract,CC1=CC(=O)CC(C1/C=C/C(=O)C)(C)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5363685,Terpenoids
+"hexahydropyrrolo[1,2-a]pyrazine-1,4-dione",Shewanella sp. Lzh-2,C1CC2C(=O)NCC(=O)N2C1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/193540,Alkaloids
+"2, 3-indolinedione",Shewanella sp. Lzh-2,C1=CC=C2C(=C1)C(=O)C(=O)N2,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/7054,Alkaloids
+"3-isopropyl-hexahydropyrrolo[1,2-a]pyrazine-1,4-dione",Bacillus sp. Lzh-5,CC(C)C1C(=O)N2CCCC2C(=O)N1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/98951,Amino acids and derivatives
+cyclo(4-OH-Pro-Leu),Chryseobacterium sp. strain GLY1106,CC(C)CC1C(=O)N2CC(CC2C(=O)N1)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/14326058,Amino acids and derivatives
+cyclo(Pro-Leu),Chryseobacterium sp. strain GLY-1106,CC(C)CC1C(=O)N2CCCC2C(=O)N1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/102892,Amino acids and derivatives
+purified protein P7,marine bacterium,,Microorganism,True,,Others
+(S)-2-(1-Aminoethyl)-N-phenylthiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=CC=C2)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66373596,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(4-fluorophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=C(C=C2)F)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374760,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(4-chlorophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=C(C=C2)Cl)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66373808,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(4-bromophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=C(C=C2)Br)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374568,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(p-tolyl)thiazole-4-carboxamide,,CC1=CC=C(C=C1)NC(=O)C2=CSC(=N2)[C@H](C)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66372471,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(4-methoxyphenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=C(C=C2)OC)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66373212,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(4-(trifluoromethyl)phenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=C(C=C2)C(F)(F)F)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374755,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(3-chlorophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC(=CC=C2)Cl)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66373612,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(3-bromophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC(=CC=C2)Br)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374570,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(m-tolyl)thiazole-4-carboxamide,,CC1=CC=CC(=C1)NC(=O)C2=CSC(=N2)[C@H](C)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66373040,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(3-(trifluoromethyl)phenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC(=CC=C2)C(F)(F)F)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374560,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(2-fluorophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=C(C=CC=C2)F)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66375346,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(2-chlorophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=C(C=CC=C2)Cl)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374952,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(2-bromophenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=C(C=CC=C2)Br)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374378,Thiazole amide analogues
+(S)-2-(1-aminoethyl)-N-(o-tolyl)thiazole-4-carboxamide,,CC1=C(C=CC=C1)NC(=O)C2=CSC(=N2)[C@H](C)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66372857,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(2-methoxyphenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=C(C=CC=C2)OC)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66372453,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(4-(trifluoromethoxy)phenyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=C(C=C2)OC(F)(F)F)N,Synthetic,False,,Thiazole amide analogues
+"(S)-2-(1-Aminoethyl)-N-(3,4-dichlorophenyl)thiazole-4-carboxamide",,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC(=C(C=C2)Cl)Cl)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66372841,Thiazole amide analogues
+(S)-2-(1-aminoethyl)-N-(4-fluoro-3-methylphenyl)thiazole-4-carboxamide,,CC1=CC(=CC=C1F)NC(=O)C2=CSC(=N2)[C@H](C)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66389745,Thiazole amide analogues
+(S)-Ethyl 4-(2-(1-aminoethyl)thiazole-4-carboxamido)benzoate,,CCOC(=O)C1=CC=C(C=C1)NC(=O)C2=CSC(=N2)[C@H](C)N,Synthetic,False,,Thiazole amide analogues
+(S)-N-(4-Acetylphenyl)-2-(1-aminoethyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=CC=C(C=C2)C(=O)C)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66388937,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(pyridin-2-yl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC2=NC=CC=C2)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66372641,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-(tert-butyl)thiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NC(C)(C)C)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66374177,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-butylthiazole-4-carboxamide,,CCCCNC(=O)C1=CSC(=N1)[C@H](C)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66373222,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-phenethylthiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NCCC2=CC=CC=C2)N,Synthetic,False,,Thiazole amide analogues
+(S)-2-(1-Aminoethyl)-N-benzylthiazole-4-carboxamide,,C[C@@H](C1=NC(=CS1)C(=O)NCC2=CC=CC=C2)N,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/66373217,Thiazole amide analogues
+"4-Bromo-N-(2,5dioxo-2,5-dihydro-1H-pyrrol-1-yl)benzamide",,C1=C(C=CC(=C1)Br)C(=O)NN2C(=O)C=CC2=O,Synthetic,False,,Maleimide derivatives
+acacetin,,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280442,Flavonoids
+kaempferide,,COC1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281666,Flavonoids
+nevadensin,,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C(=C3O2)OC)O)OC)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/160921,Flavonoids
+tangeretin,,COC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/68077,Flavonoids
+diosmetin,,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281612,Flavonoids
+"2′,6 -dihydroxyflavone",,C1=CC=C(C(=C1)C2=CC(=O)C3=C(O2)C=CC(=C3)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/688661,Flavonoids
+"5,6-dihydroxyflavone",,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=CC(=C3O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/14349487,Flavonoids
+"3′,4′-dihydroxyflavone",,C1=CC=C2C(=C1)C(=O)C=C(O2)C3=CC(=C(C=C3)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/145726,Flavonoids
+"7,8-dihydroxyflavone",,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C=C3)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/1880,Flavonoids
+"5,3′-dihydroxyflavone",,C1=CC(=CC(=C1)O)C2=CC(=O)C3=C(C=CC=C3O2)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/676030,Flavonoids
+"7,3′-dihydroxyflavone",,C1=CC(=CC(=C1)O)C2=CC(=O)C3=C(O2)C=C(C=C3)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/5391140,Flavonoids
+"3',5'-Dihydroxyflavone",,C1=CC=C2C(=C1)C(=O)C=C(O2)C3=CC(=CC(=C3)O)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/45933941,Flavonoids
+"7,4′-dihydroxyflavone",,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C=C3)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5282073,Flavonoids
+Galangin,,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281616,Flavonoids
+"Cyclopentyl-(3,4-dichlorobenzyl)amine",,C1CCC(C1)NCC2=CC(=C(C=C2)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3394128,Dichlorobenzylamine derivatives
+"Cyclohexyl-(3,4-dichlorobenzyl)amine",,C1CCC(CC1)NCC2=CC(=C(C=C2)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/4719194,Dichlorobenzylamine derivatives
+hydroxyl radical,,[OH],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/157350,Others
+"5-(4-(2-Cyclohexylethoxy)benzylidene)thiazolidine-2,4-dione",,C1CCC(CC1)CCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/85120829,Thiazolidinedione derivatives
+"5-(4-((1-Methylcyclohexyl)methoxy)benzylidene)thiazolidine-2,4-dione",,CC1(CCCCC1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/57971865,Thiazolidinedione derivatives
+"5-[4-(2-Thiomorpholine-1,1-dioxideethoxy)benzylidene]thiazolidine-2,4-dione",,,Synthetic,False,,Thiazolidinedione derivatives
+"5-(4-(2-(Thiophen-2-yl)ethoxy)benzylidene)thiazolidine-2,4-dione",,C1=CSC(=C1)CCOC2=CC=C(C=C2)/C=C\3/C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/46233465,Thiazolidinedione derivatives
+"5-(4-(2-Morpholinoethoxy)benzylidene)thiazolidine-2,4-dione",,C1COCCN1CCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180721,Thiazolidinedione derivatives
+"5-(4-(2-(Thiophen-3-yl)ethoxy)benzylidene)thiazolidine-2,4-dione",,C1=CC(=CC=C1C=C2C(=O)NC(=O)S2)OCCC3=CSC=C3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180722,Thiazolidinedione derivatives
+"5-(4-(2-Isopropoxyethoxy)benzylidene)thiazolidine-2,4-dione",,CC(C)OCCOC1=CC=C(C=C1)C=C2C(=O)NC(=O)S2,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180723,Thiazolidinedione derivatives
+"5-(4-(2-(Pyridin-2-yl)ethoxy)benzylidene)thiazolidine-2,4-dione",,C1=CC=NC(=C1)CCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/54174892,Thiazolidinedione derivatives
+"5-(4-(2-(Cyclohexylamino)ethoxy)benzylidene)thiazolidine-2,4-dione",,C1CCC(CC1)NCCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180724,Thiazolidinedione derivatives
+"5-(4-(2-(Tetrahydro-2H-pyran-2-yl)ethoxy)benzylidene)thiazolidine-2,4-dione",,C1CCOC(C1)CCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180725,Thiazolidinedione derivatives
+"5-(4-(2-(Piperidin-1-yl)ethoxy)benzylidene)thiazolidine-2,4-dione",,C1CCN(CC1)CCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180732,Thiazolidinedione derivatives
+"5-(4-(2-(4-Methylthiazol-5-yl)ethoxy)benzylidene)thiazolidine-2,4-dione",,CC1=C(SC=N1)CCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180733,Thiazolidinedione derivatives
+"5-[4-(3-Thiomorpholine-1,1-dioxidepropoxy)benzylidene]-thiazolidine-2,4-dione",,,Synthetic,False,,Thiazolidinedione derivatives
+"5-(4-(Thiophen-2-ylmethoxy)benzylidene)thiazolidine-2,4-dione",,C1=CSC(=C1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180735,Thiazolidinedione derivatives
+"5-(4-(Thiophen-3-ylmethoxy)benzylidene)thiazolidine-2,4-dione",,C1=CC(=CC=C1C=C2C(=O)NC(=O)S2)OCC3=CSC=C3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180736,Thiazolidinedione derivatives
+"5-(4-(2-Cyclopentylethoxy)benzylidene)thiazolidine-2,4-dione",,C1CCC(C1)CCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180737,Thiazolidinedione derivatives
+"5-(4-(Furan-2-ylmethoxy)benzylidene)thiazolidine-2,4-dione",,C1=COC(=C1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180741,Thiazolidinedione derivatives
+"5-(4-(Pyridin-2-ylmethoxy)benzylidene)thiazolidine-2,4-dione",,C1=CC=NC(=C1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180742,Thiazolidinedione derivatives
+"5-(4-(4-Methoxybenzyloxy)benzylidene)thiazolidine-2,4-dione",,COC1=CC=C(C=C1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180743,Thiazolidinedione derivatives
+"5-(4-(4-Methylbenzyloxy)benzylidene)thiazolidine-2,4-dione",,CC1=CC=C(C=C1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3100985,Thiazolidinedione derivatives
+"5-(4-(Benzo[d][1,3]dioxol-5-ylmethoxy)benzylidene)thiazolidine-2,4-dione",,C1OC2=C(O1)C=C(C=C2)COC3=CC=C(C=C3)C=C4C(=O)NC(=O)S4,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180744,Thiazolidinedione derivatives
+"5-(4-(Cyclopentylmethoxy)benzylidene)thiazolidine-2,4-dione",,C1CCC(C1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/74993282,Thiazolidinedione derivatives
+"5-(4-(4-(Chloromethyl)benzyloxy)benzylidene)thiazolidine-2,4-dione",,C1=CC(=CC=C1COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3)CCl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180746,Thiazolidinedione derivatives
+"5-(4-((4-Methylcyclohexyl)methoxy)benzylidene)thiazolidine-2,4-dione",,CC1CCC(CC1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180747,Thiazolidinedione derivatives
+"5-(4-(2-(Cyclohexyloxy)ethoxy)benzylidene)thiazolidine-2,4-dione",,C1CCC(CC1)OCCOC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180748,Thiazolidinedione derivatives
+"5-(4-((2,3-Dihydrobenzo[b][1,4]dioxin-2-yl)methoxy)benzylidene)thiazolidine-2,4-dione",,C1C(OC2=CC=CC=C2O1)COC3=CC=C(C=C3)C=C4C(=O)NC(=O)S4,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180749,Thiazolidinedione derivatives
+"Methyl4-((4-((2,4-dioxothiazolidine-5-ylidene)methyl)phenoxy)methyl)cyclohexane carboxylate",,COC(=O)C1CCC(CC1)COC2=CC=C(C=C2)C=C3C(=O)NC(=O)S3,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180750,Thiazolidinedione derivatives
+"5-(4-(Biphenyl-4-ylmethoxy)benzylidene)thiazolidine-2,4-dione",,C1=CC=C(C=C1)C2=CC=C(C=C2)COC3=CC=C(C=C3)C=C4C(=O)NC(=O)S4,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75180751,Thiazolidinedione derivatives
+didecyl methyl propyl ammonium iodide,,,Synthetic,False,,Quaternary ammonium salt
+2-undecen-1'-yl-4-quinolone,Alteromonas sp. KNS-16,CCCCCCCC/C=C/CC1=NC2=CC=CC=C2C(=O)C1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/132280846,Polyketides
+2-undecyl-4-quinolone,Alteromonas sp. KNS-16,CCCCCCCCCCCC1=NC2=CC=CC=C2C(=O)C1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/129677843,Polyketides
+3-hexyl-6-pentyl-4-hydroxyl-2H-pyran-2-one,Alteromonas sp. KNS-16,CCCCCCC1=C(C=C(OC1=O)CCCCC)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/54678993,Polyketides
+6-heptyl-3-hexyl-4-hydroxyl-2H-pyran-2-one,Alteromonas sp. KNS-16,CCCCCCCC1=CC(=C(C(=O)O1)CCCCCC)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/54710733,Polyketides
+a composite algaecide containing flocculants and Cinnamomum camphora leaves extracts (CCCLE),,,Plant,True,,Crude extracts
+Fumaric acid,,C(=C/C(=O)O)\C(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/444972,Fatty acids
+Neferine,Lotus,CN1CCC2=CC(=C(C=C2[C@H]1CC3=CC=C(C=C3)OC)OC4=C(C=CC(=C4)C[C@@H]5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/159654,Alkaloids
+Nuciferine,Lotus,CN1CCC2=CC(=C(C3=C2[C@H]1CC4=CC=CC=C43)OC)OC,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10146,Alkaloids
+hordenine,barley,CN(C)CCC1=CC=C(C=C1)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/68313,Alkaloids
+beta-sitosterol-beta-D-glucoside,rice hull,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@@H]2CC=C4[C@]3(CC[C@@H](C4)O[C@@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/12309055,Terpenoids
+dicyclohexanyl orizane,rice hull,,Plant,True,,Others
+rutacridone epoxide,Ruta graveolens,CC1(CO1)C2CC3=C(O2)C=C(C4=C3N(C5=CC=CC=C5C4=O)C)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281850,Alkaloids
+gravacridondiol,Ruta graveolens roots,CC(CO)(C1CC2=C(O1)C=C(C3=C2N(C4=CC=CC=C4C3=O)C)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5317836,Alkaloids
+l-2-azetidinecarboxylic acid,Polygonatum odoratum var. pluriflorum Owhi,C1CN[C@@H]1C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/16486,Amino acids and derivatives
+Azetidine,Polygonatum odoratum var. pluriflorum Owhi,C1CNC1,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10422,Alkaloids
+palmitic acid,"Ulva fasciata, Ulva pertusa, Sargassum muticum (Yendo) Fensholt, Chattonella marina var. marina",CCCCCCCCCCCCCCCC(=O)O,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/985,Fatty acids
+palmitelaidic acid,"Ulva fasciata, Ulva pertusa",CCCCCC/C=C/CCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5282745,Fatty acids
+octadecatetraenoic acid,"Ulva fasciata, Ulva pertusa",CCCCCCCCC/C=C/C=C/C=C/C=C/C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/11778225,Fatty acids
+stearic acid,"Ulva fasciata, Ulva pertusa",CCCCCCCCCCCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281,Fatty acids
+oleic acid,"Ulva fasciata, Ulva pertusa, Shewanella oneidensis SCH0402",CCCCCCCC/C=C\CCCCCCCC(=O)O,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/445639,Fatty acids
+α-linolenic acid,"Ulva fasciata, Ulva pertusa",CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280934,Fatty acids
+hexadecatetraenoic acid,"Ulva fasciata, Ulva pertusa",,Plant,True,,Fatty acids
+arachidic acid,"Ulva fasciata, Ulva pertusa",CCCCCCCCCCCCCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10467,Fatty acids
+11-Eicosenoic acid,"Ulva fasciata, Ulva pertusa",CCCCCCCC/C=C\CCCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5282768,Fatty acids
+arachidonic acid,"Ulva fasciata, Ulva pertusa, Ishige sinicola",CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/444899,Fatty acids
+eicosapentaenoic acid,"Ulva fasciata, Ulva pertusa, Chattonella marina var. marina",CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/446284,Fatty acids
+behenic acid,"Ulva fasciata, Ulva pertusa",CCCCCCCCCCCCCCCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8215,Fatty acids
+erucic acid,"Ulva fasciata, Ulva pertusa",CCCCCCCC/C=C\CCCCCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5281116,Fatty acids
+docosahexaenoic acid,"Ulva fasciata, Ulva pertusa",CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/445580,Fatty acids
+1-O-palmitoyl-3-O-(6'-sulfo-D-quinovopyranosyl)-sn-glycerol,Ishige sinicola,,Plant,True,,Fatty acids
+juglone,walnut hull,C1=CC2=C(C(=O)C=CC2=O)C(=C1)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/3806,Naphthalenes
+100-day extract of fresh cattail,Typha angustifolia,,Plant,True,,Crude extracts
+"2,4,6-Trimethyl-benzonitrile",giant reed (Arundo donax),CC1=CC(=C(C(=C1)C)C#N)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/137649,Others
+"5,6-Dichlorogramine",,CN(C)CC1=CNC2=CC(=C(C=C21)Cl)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/14373876,Alkaloids
+Ellipticine,giant reed (Arundo donax),CC1=C2C=CN=CC2=C(C3=C1NC4=CC=CC=C43)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/3213,Alkaloids
+Rhizoma coptidis Huang Lian extracts,Rhizoma coptidis Huang Lian,,Plant,True,,Crude extracts
+areca seed extracts,Semen arecae Bing Lang,,Plant,True,,Crude extracts
+cocamidopropyl betaine,,CCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC(=O)[O-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/20280,Quaternary ammonium salt
+diallyl trisulfide,Garlic (Allium sativum),C=CCSSSCC=C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/16315,Others
+Algimycin® PWF,,,Commercial,False,,
+Captain® XTR,,,Commercial,False,,
+SeClear®,,,Commercial,False,,
+GreenClean® Liquid 5.0,,,Commercial,False,,
+PAK® 27,,,Commercial,False,,
+Oximycin® P5,,,Commercial,False,,
+5-methoxy-bacillamide,,CC(=O)C1=NC(=CS1)C(=O)NCCC2=C[N]C3=C2C=C(C=C3)OC,Synthetic,False,,Bacillamide derivatives
+5-bromo-bacillamide,,CC(=O)C1=NC(=CS1)C(=O)NCCC2=CNC3=C2C=C(C=C3)Br,Synthetic,False,,Bacillamide derivatives
+5-fluoro-bacillamide,,CC(=O)C1=NC(=CS1)C(=O)NCCC2=CNC3=C2C=C(C=C3)F,Synthetic,False,,Bacillamide derivatives
+5-chloro-bacillamide,,CC(=O)C1=NC(=CS1)C(=O)NCCC2=CNC3=C2C=C(C=C3)Cl,Synthetic,False,,Bacillamide derivatives
+5-iodo-bacillamide,,CC(=O)C1=NC(=CS1)C(=O)NCCC2=CNC3=C2C=C(C=C3)I,Synthetic,False,,Bacillamide derivatives
+Chloroform extracts of the root of Salvia miltiorrhiza,Salvia miltiorrhiza,,Plant,True,,Crude extracts
+Ethyl acetate extracts of the root of Salvia miltiorrhiza,Salvia miltiorrhiza,,Plant,True,,Crude extracts
+Methanol  extracts of the root of Salvia miltiorrhiza,Salvia miltiorrhiza,,Plant,True,,Crude extracts
+Petroleum ether extracts of the rhizome of Acorus tatarinowii,Acorus tatarinowii,,Plant,True,,Crude extracts
+Chloroform extracts of the rhizome of Acorus tatarinowii,Acorus tatarinowii,,Plant,True,,Crude extracts
+Petroleum ether extracts of the rhizome of Polygonum cuspidatum,Polygonum cuspidatum,,Plant,True,,Crude extracts
+Chloroform extracts of the rhizome of Polygonum cuspidatum,Polygonum cuspidatum,,Plant,True,,Crude extracts
+Ethyl acetate extracts of the rhizome of Polygonum cuspidatum,Polygonum cuspidatum,,Plant,True,,Crude extracts
+Petroleum ether extracts of the cortex of Phellodendron amurense,Phellodendron amurense,,Plant,True,,Crude extracts
+Chloroform extracts of the cortex of Phellodendron amurense,Phellodendron amurense,,Plant,True,,Crude extracts
+Chloroform extracts of the fruits of Crataegus pinnatifida,Crataegus pinnatifida,,Plant,True,,Crude extracts
+rhamnolipid biosurfactant,Pseudomonas aeruginosa,,Microorganism,True,,Others
+HP(2–20),Helicobacter pylori,,Microorganism,True,,Amino acids and derivatives
+HPA3 (19-mer),Helicobacter pylori,,Microorganism,True,,Amino acids and derivatives
+HPA3NT3 (15-mer),Helicobacter pylori,,Microorganism,True,,Amino acids and derivatives
+"5-(3-chloro-4-(cyclohexyloxy)benzylidene)thiazolidine-2,4-dione",,C1CCC(CC1)OC2=C(C=C(C=C2)C=C3C(=O)NC(=O)S3)Cl,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/75216325,Thiazolidinedione derivatives
+Sophorolipid,"Candida bombicola ATCC22214, Torulopsis species",,Microorganism,True,,Others
+Bean extract,Vicia faba,,Plant,True,,Crude extracts
+Cactus extract,Opuntia ficus indica,,Plant,True,,Crude extracts
+ethylene bis (dodecyl dimethyl ammonium chloride),,CCCCCCCCCCCC[N+](C)(C)CC[N+](C)(C)CCCCCCCCCCCC.[Cl-].[Cl-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/14625497,Quaternary ammonium salt
+ethylene bis (octadecyl dimethyl ammonium chloride),,CCCCCCCCCCCCCCCCCC[N+](C)(C)CC[N+](C)(C)CCCCCCCCCCCCCCCCCC.[Cl-].[Cl-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/14625495,Quaternary ammonium salt
+ethylene bis (dodecyl dimethyl ammonium bromide),,CCCCCCCCCCCC[N+](C)(C)CC[N+](C)(C)CCCCCCCCCCCC.[Br-].[Br-],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/3082132,Quaternary ammonium salt
+polydadmac (poly dimethyl diallyl ammonium chloride),,,Synthetic,False,,Quaternary ammonium salt
+Sinapic acid,,COC1=CC(=CC(=C1O)OC)/C=C/C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/637775,Phenylpropanoids
+Protocatechuic acid,,C1=CC(=C(C=C1C(=O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/72,Phenolic acids
+Syringic acid,,COC1=CC(=CC(=C1O)OC)C(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10742,Phenolic acids
+Catechol,,C1=CC=C(C(=C1)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/289,Phenols
+Hydroxyhydroquinone,,C1=CC(=C(C=C1O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10787,Phenols
+Phloroglucine,,C1=C(C=C(C=C1O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/359,Polyketides
+Chlorine dioxide,,O=Cl[O],Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/24870,Inorganic oxide
+Aluminum silicate,,,Synthetic,False,,Metal compounds
+tannic acid,,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/16129778,Polyketides
+Ethyl acetate extracts of the fresh leaves of Thymus maroccanus,Thymus maroccanus,,Plant,True,,Crude extracts
+Ethyl acetate extracts of the fresh leaves of Origanum compactum,Origanum compactum,,Plant,True,,Crude extracts
+Ethyl acetate extracts of the fresh leaves of Artemisia herba-alba,Artemisia herba-alba,,Plant,True,,Crude extracts
+dihydroactinidiolide,Elodea nuttallii,CC1(CCCC2(C1=CC(=O)O2)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/27209,Apocarotenoids
+beta-ionone,"Elodea nuttallii, Microcystis VOC",CC1=C(C(CCC1)(C)C)/C=C/C(=O)C,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/638014,Apocarotenoids
+vanillic acid,,COC1=C(C=CC(=C1)C(=O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8468,Phenolic acids
+lantadene A,Lantana camara,C/C=C(/C)\C(=O)O[C@@H]1CC(C[C@@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/6436598,Terpenoids
+lantadene B,Lantana camara,CC(=CC(=O)O[C@@H]1CC(C[C@@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/15560077,Terpenoids
+rice straw extract,,,Plant,True,,Crude extracts
+AlgaeFix®,,,Commercial,False,,
+ZeroTol,,,Commercial,False,,
+dioctyl phthalate,Sargassum muticum (Yendo) Fensholt,CCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCC,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8346,Phenolic acids
+Irgarol,,CC(C)(C)NC1=NC(=NC(=N1)NC2CC2)SC,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/91590,Triazines
+Tolyfluanide,,CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/12898,Sulfamides
+Dichlofluanide,,CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/14145,Sulfamides
+2-hydroxymyristic acid,Shewanella oneidensis SCH0402,CCCCCCCCCCCCC(C(=O)O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/1563,Fatty acids
+"3-octa-1′,3′-dienyl-4-methylfuran-2(5H)-one",Streptomyces violaceoruber,CCCC/C=C/C=C/C1=C(COC1=O)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/86301942,Polyketides
+3-octa-1'-enyl4-methylfuran-2(5H)-one,Streptomyces violaceoruber,,Microorganism,True,,Polyketides
+hymenialdisine,sponge Axinella sp,C\1CNC(=O)C2=C(/C1=C\3/C(=O)NC(=N3)N)C=C(N2)Br,Animal,True,https://pubchem.ncbi.nlm.nih.gov/compound/135413546,Alkaloids
+debromohymenialdisine,sponge Axinella sp,C\1CNC(=O)C2=C(/C1=C\3/C(=O)NC(=N3)N)C=CN2,Animal,True,https://pubchem.ncbi.nlm.nih.gov/compound/135451156,Alkaloids
+coumarin,Cinnamon Tree Cinnamomum loureiroi,C1=CC=C2C(=C1)C=CC(=O)O2,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/323,Coumarins
+hydroxylcoumarin,Cinnamon Tree Cinnamomum loureiroi,C1=CC=C2C(=C1)C(=CC(=O)O2)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/54682930,Coumarins
+coumaric acid,Cinnamon Tree Cinnamomum loureiroi,C1=CC=C(C(=C1)/C=C/C(=O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/637540,Phenylpropanoids
+cinnamaldehyde,"Cinnamon Tree Cinnamomum loureiroi, Microcystis VOC",C1=CC=C(C=C1)/C=C/C=O,Plant/Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/637511,Phenylpropanoids
+"17-(1,2-dihydroxyl-5-methyl-hexane)-2,3-dihydroxyl-cholest-4-en-6-one",Leucothrix mucor,,Microorganism,True,,Terpenoids
+"13-acetate-17-(1,5-dimethylhexane)-cholest-7-en-3,5,6,15-tetraol",Leucothrix mucor,,Microorganism,True,,Terpenoids
+giffinisterone B,Leucothrix mucor,CC(C)CC=CC(CO)C1(CCC2C1(CCC3C2CCC4C3(C=CC(=O)C4)C)C)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/74333961,Terpenoids
+oleamide,Leucothrix mucor,CCCCCCCC/C=C\CCCCCCCC(=O)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5283387,Fatty acids
+Lobocompactol,Streptomyces cinnabarinus PK209,C/C/1=C\CCC(=C)[C@@H](CC(CC1)C2=CC[C@@H](OC2)C(C)(C)O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/102193697,Terpenoids
+cell-free filtrate of Acinetobacter sp. CMDB-2,Acinetobacter sp. CMDB-2,,Microorganism,True,,Crude extracts
+S1,Sargassum horneri,,Plant,True,,Terpenoids
+S2,Sargassum horneri,,Plant,True,,Terpenoids
+S3,Sargassum horneri,CC1=CC(=CC2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)C(C(C=C(C)C)O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/72767906,Terpenoids
+S4,Sargassum horneri,CC1=CC(=CC2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)C(=O)C(C=C(C)C)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/72835263,Terpenoids
+S5,Sargassum horneri,CC1=CC(=CC2=C1OC(CC2)(C)CCC=C(C)CCC=C(CCC=C(C)C)C(=O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/90830796,Terpenoids
+S6,Sargassum horneri,CC1=CC(=CC2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)C(CC=C(C)C)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/85425454,Terpenoids
+bamboo extract,Semiarundinaria densiflora (Rendle) T.H. Wen),,Plant,True,,Crude extracts
+p-Coumaric acid,reed (Phragmites australis),C1=CC(=CC=C1/C=C/C(=O)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/637542,Phenylpropanoids
+pelargon acid,reed (Phragmites australis),CCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/8158,Fatty acids
+myristic acid,reed (Phragmites australis),CCCCCCCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/11005,Fatty acids
+1-Hydroxyphenazine,Pseudomonas aeruginosa,C1=CC=C2C(=C1)N=C3C=CC=C(C3=N2)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/135412648,Alkaloids
+"2,4-di-tert-butylphenol",Pseudomonas sp. QJX-1,CC(C)(C)C1=CC(=C(C=C1)O)C(C)(C)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/7311,Phenols
+Fermentation Products From Vibrio brasiliensis H115,Vibrio brasiliensis H115,,Microorganism,True,,Crude extracts
+spray-dried broth of Vibrio sp.,Vibrio sp.,,Microorganism,True,,Crude extracts
+Cell-free extracts of strain 383 from Antarctica,strain 383 from Antarctica,,Microorganism,True,,Crude extracts
+Cell-free extracts of Arthrobacter sp. 443 from Antarctica,Arthrobacter sp. 443 from Antarctica,,Microorganism,True,,Crude extracts
+Cell-free extracts of strain ES7 from Antarctica,strain ES7 from Antarctica,,Microorganism,True,,Crude extracts
+2-heptyl-4-quinolone,"Pseudomonas aeruginosa, Pseudoalteromonas piscicida",CCCCCCCC1=CC(=O)C2=CC=CC=C2N1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/164974,Alkaloids
+Pseudoruegeria sp. M32A2M cultures,Pseudoruegeria sp. M32A2M,,Microorganism,True,,Crude extracts
+hypoxanthine,Bacillus sp.strain B1,C1=NC2=C(N1)C(=O)NC=N2,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/135398638,Alkaloids
+fermentation filtrate of Paenibacillus sp. SJ-73,Paenibacillus sp. SJ-73,,Microorganism,True,,Crude extracts
+Raoultella sp. S1 supernatant,Raoultella sp. S1,,Microorganism,True,,Crude extracts
+Lactobacillius sakei supernatant,Lactobacillius sakei,,Microorganism,True,,Crude extracts
+Enterobacter sp. EA-1 cultures,Enterobacter sp. EA-1,,Microorganism,True,,Crude extracts
+Bacillus mycoides BS2-15 bacterial culture,Bacillus mycoides BS2-15,,Microorganism,True,,Crude extracts
+Streptomyces globisporus G9 culture,Streptomyces globisporus G9,,Microorganism,True,,Crude extracts
+Bacterial suspension of Bacillus flexus SSZ01,Bacillus flexus SSZ01,,Microorganism,True,,Crude extracts
+bacterial cells of Sulfitobacter pseudonitzschiae H46,Sulfitobacter pseudonitzschiae H46,,Microorganism,True,,Crude extracts
+cell-free filtrate of Paracoccus homiensis,Paracoccus homiensis,,Microorganism,True,,Crude extracts
+culture supernatant of Halobacillus sp. P1,Halobacillus sp. P1,,Microorganism,True,,Crude extracts
+Fermented cultures of Streptomyces sp. HJC-D1,Streptomyces sp. HJC-D1,,Microorganism,True,,Crude extracts
+cell-free supernatants of Sulfitobacter porphyrae ZFX1,Sulfitobacter porphyrae ZFX1,,Microorganism,True,,Crude extracts
+indole-3-carboxaldehyde,Bacillus sp. Strain S51107,C1=CC=C2C(=C1)C(=CN2)C=O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/10256,Alkaloids
+cyclo(Pro-Phe),Bacillus sp. Strain S51107,C1C[C@H]2C(=O)N[C@H](C(=O)N2C1)CC3=CC=CC=C3,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/443440,Amino acids and derivatives
+lumichrome,Aeromonas veronii,CC1=CC2=C(C=C1C)N=C3C(=N2)C(=O)NC(=O)N3,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5326566,Alkaloids
+"3-(1-hydroxydecylidene)-5-(2-hydroxyethyl)pyrrolidine-2,4-dione",,CCCCCCCCCC(=O)C1=C(C(NC1=O)CCO)O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/76211415,Pyrrolines
+Questiomycin A,Alteromonas sp. D,C1=CC=C2C(=C1)N=C3C=C(C(=O)C=C3O2)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/72725,Alkaloids
+Questiomycin C,Alteromonas sp. D,CS(=O)C1=C(C(=O)C=C2C1=NC3=CC=CC=C3O2)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/146682678,Alkaloids
+Questiomycin D,Alteromonas sp. D,CSC1=C(C(=O)C=C2C1=NC3=CC=CC=C3O2)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/146682679,Alkaloids
+Questiomycin E,Alteromonas sp. D,C1=CC=C2C(=C1)N=C3C(=CC(=O)C(=C3Br)N)O2,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/146682680,Alkaloids
+"2-hydroxy-12-oleanene-3,28-O-D-glucopyranosyl",Streptomyces sp. L74,,Microorganism,True,,Others
+Orfamide A,Pseudomonas protegens,CCCCCCCCCCCC(CC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@@H]1[C@@H](OC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@H](NC1=O)[C@H](C)CC)CC(C)C)CO)CC(C)C)CC(C)C)CO)C(C)C)C)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/102456656,Amino acids and derivatives
+Pyrrolnitrin,Pseudomonas protegens,C1=CC(=C(C(=C1)Cl)[N+](=O)[O-])C2=CNC=C2Cl,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/13916,Alkaloids
+Pyoluteorin,Pseudomonas protegens,C1=CC(=C(C(=C1)O)C(=O)C2=CC(=C(N2)Cl)Cl)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/33137,Alkaloids
+"2,4-diacetylphloroglucinol",Pseudomonas protegens,CC(=O)C1=C(C(=C(C=C1O)O)C(=O)C)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/16547,Polyketides
+rhizoxin S2,Pseudomonas protegens,C[C@@H]1/C=C\[C@@H]2C(O2)([C@H](CC(OC(=O)/C=C\C[C@H](CC1O)CC(=O)O)[C@H](C)[C@H](/C(=C/C=C/C(=C/C3=COC(=N3)C)/C)/C)OC)O)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/139584540,Polyketides
+AquaFrin,,,Commercial,False,,
+Clavulanate,Aeromonas sp. strain FM,C1[C@@H]2N(C1=O)[C@H](/C(=C/CO)/O2)C(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280980,Amino acids and derivatives
+N-acetylhistamine,Bacillus sp. B1,CC(=O)NCCC1=CN=CN1,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/69602,Alkaloids
+L-histidine,Bacillus sp. B1,C1=C(NC=N1)C[C@@H](C(=O)O)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/6274,Amino acids and derivatives
+"3-benzyl-piperazine-2,5-dione",Aeromonas sp. GLY-2107,C1C(=O)NC(C(=O)N1)CC2=CC=CC=C2,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/138409,Alkaloids
+3-methylindole,Aeromonas sp. GLY-2107,CC1=CNC2=CC=CC=C12,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/6736,Alkaloids
+"2,3,4,5-tetrabromo-1H-pyrrole",Pseudoalteromonas piscicida (A757),C1(=C(NC(=C1Br)Br)Br)Br,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/4605890,Alkaloids
+DL-Pipecolic acid,Rhodococcus sp. strain p52,C1CCNC(C1)C(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/849,Amino acids and derivatives
+L-Pyroglutamic acid,Rhodococcus sp. strain p52,C1CC(=O)N[C@@H]1C(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/7405,Amino acids and derivatives
+siderophore,Stenotrophomonas maltophilia 15,,Microorganism,True,,Others
+Geosmin,Microcystis VOC,C[C@H]1CCC[C@@]2([C@@]1(CCCC2)O)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/29746,Terpenoids
+2-methylisoborneol,Microcystis VOC,C[C@@]12CC[C@@H](C1(C)C)C[C@@]2(C)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/11062802,Terpenoids
+3-Methyl-1-butanol,Microcystis VOC,CC(C)CCO,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/31260,Fatty acids
+Carvacrol,Microcystis VOC,CC1=C(C=C(C=C1)C(C)C)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/10364,Terpenoids
+Geraniol,Microcystis VOC,CC(=CCC/C(=C/CO)/C)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/637566,Terpenoids
+Menthol,Microcystis VOC,CC1CCC(C(C1)O)C(C)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/1254,Terpenoids
+Menthone,Microcystis VOC,C[C@@H]1CC[C@H](C(=O)C1)C(C)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/26447,Terpenoids
+Perillaldehyde,Microcystis VOC,CC(=C)C1CCC(=CC1)C=O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/16441,Terpenoids
+Thymol,Microcystis VOC,CC1=CC(=C(C=C1)C(C)C)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/6989,Terpenoids
+Vanillin,Microcystis VOC,COC1=C(C=CC(=C1)C=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/1183,Phenolic acids
+cholesterol sulfate,Skeletonema marinoi,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C)C,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/65076,Terpenoids
+dihydrobrassicasterol sulfate,Skeletonema marinoi,,Microorganism,True,,Others
+bentazon,,CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O,Synthetic,False,https://pubchem.ncbi.nlm.nih.gov/compound/2328,Thiadiazine
+gossonorol,Gracilaria lemaneiformis,CC1=CC=C(C=C1)C(C)(CCC=C(C)C)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/185199,Terpenoids
+stigmasterol,Gracilaria lemaneiformis,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/5280794,Terpenoids
+glycerol monopalmitate,Gracilaria lemaneiformis,CCCCCCCCCCCCCCCC(=O)OCC(CO)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/14900,Fatty acids
+"7,10-epoxy-ar-bisabol-11-ol",Gracilaria lemaneiformis,CC1=CC=C(C=C1)[C@@]2(CC[C@@H](O2)C(C)(C)O)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/44240268,Terpenoids
+"15-hydroxymethyl-2, 6, 10,18, 22, 26, 30heptamethyl-14-methylene-17-hentriacontene",Gracilaria lemaneiformis,CC(C)CCCC(C)CCCC(C)CCCC(=CCC(CO)C(=C)CCCC(C)CCCC(C)CCCC(C)C)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/78200735,Terpenoids
+p-hydroxyphenylethanol,Gracilaria lemaneiformis,C1=CC(=CC=C1CCO)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10393,Phenylethanoids
+margaric acid,Gracilaria lemaneiformis,CCCCCCCCCCCCCCCCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/10465,Fatty acids
+"8-hydroxy-4E,6E-octadien-3-one",Gracilaria lemaneiformis,CCC(=O)C=CC=CCO,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/163140371,Fatty acids
+"3β-hydroxy-5α,6α-epoxy-7-megastigmen-9-one",Gracilaria lemaneiformis,CC(=O)/C=C/[C@]12[C@](O1)(C[C@H](CC2(C)C)O)C,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/14605580,Terpenoids
+1-β-D-ribofuranosyluracil,Gracilaria lemaneiformis,C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/6029,Nucleosides
+"3-hydroxymethylpyrrolopiperazine-2,5-dione",Gracilaria lemaneiformis,C1CC2C(=O)NC(C(=O)N2C1)CO,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/322194,Amino acids and derivatives
+"benzene-1,2-propanoic acid",Gracilaria lemaneiformis,C1=CC=C(C(=C1)CCC(=O)O)CCC(=O)O,Plant,True,https://pubchem.ncbi.nlm.nih.gov/compound/11435992,Others
+1-O-Palmitoyl-2-O-palmitoleoyl-3-O-β-Dgalactopyranosyl glycerol,Gracilaria lemaneiformis,,Plant,True,,Fatty acids
+stearidonic acid,Chattonella marina var. marina,CC/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)O,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/5312508,Fatty acids
+β-cyano-L-alanine,Vibrio sp. C-979,C(C#N)[C@@H](C(=O)O)N,Microorganism,True,https://pubchem.ncbi.nlm.nih.gov/compound/439742,Amino acids and derivatives
