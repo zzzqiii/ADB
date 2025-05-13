@@ -45,8 +45,7 @@ import ConfirmationService from 'primevue/confirmationservice';
 import ToastService from 'primevue/toastservice';
 import store from './store';
 // 配置 Axios 的全局基础 URL
-axios.defaults.baseURL = 'http://algicidedb.ocean-meta.com';
-// axios.defaults.baseURL = 'http://47.96.137.15:8030';
+axios.defaults.baseURL = 'http://127.0.0.1:5173';
 
 // 创建 Vue 实例
 const app = createApp(App);

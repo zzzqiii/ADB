@@ -26,58 +26,25 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure--912-m=zy9#-8#s787uqwgi7nt3ytp4cu6nnmsakv@!jr-hd4("
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-# ALLOWED_HOSTS = ['47.96.137.15', 'localhost', '127.0.0.1']
-ALLOWED_HOSTS = ['47.96.137.15', 'localhost', '127.0.0.1', 'algicidedb.ocean-meta.com']
+ALLOWED_HOSTS = []
 
 # CORS_ALLOWED_ORIGINS = [
 #     "http://127.0.0.1:5173",
 # ]
 
-CORS_ALLOWED_ORIGINS = [
-    'http://algicidedb.ocean-meta.com',  # 前端的域名
-    'http://47.96.137.15:8031',  # 后端 IP（仅调试时需要）
-]
-
 CSRF_TRUSTED_ORIGINS = [
-    "http://algicidedb.ocean-meta.com",
-    "http://47.96.137.15:8031",
-    "http://localhost:8031",
+    "http://127.0.0.1:5173",
 ]
-# CORS_ALLOW_ALL_ORIGINS = True 
-# CORS_ORIGIN_ALLOW_ALL = True
 
+CORS_ORIGIN_ALLOW_ALL = True
 # CORS_ORIGIN_WHITELIST = (
 #     'localhost:8000',
 # )
 # CORS_ORIGIN_WHITELIST = (
-#     'http://47.96.137.15:8031'
+#     'localhost:8080/'
 # )
-
-CORS_ALLOW_CREDENTIALS = True
-# CSRF_COOKIE_HTTPONLY = False
-# CSRF_COOKIE_SECURE = False
-CORS_ALLOW_METHODS = [
-    'DELETE',
-    'GET',
-    'OPTIONS',
-    'PATCH',
-    'POST',
-    'PUT',
-]
-
-CORS_ALLOW_HEADERS = [
-    'accept',
-    'accept-encoding',
-    'authorization',
-    'content-type',
-    'dnt',
-    'origin',
-    'user-agent',
-    'x-csrftoken',
-    'x-requested-with',
-]
 
 
 
@@ -106,15 +73,7 @@ INSTALLED_APPS = [
     # 'rest_framework_swagger',
 ]
 REST_FRAMEWORK = {
-    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
-    'DEFAULT_PERMISSION_CLASSES': [
-        'rest_framework.permissions.IsAuthenticatedOrReadOnly',
-    ],
-    'DEFAULT_AUTHENTICATION_CLASSES': [
-        'rest_framework.authentication.SessionAuthentication',
-        'rest_framework.authentication.BasicAuthentication',
-        'rest_framework_simplejwt.authentication.JWTAuthentication',
-    ],
+    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend']
 }
 
 HAYSTACK_CONNECTIONS = {
@@ -166,14 +125,6 @@ DATABASES = {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     },
-    # 'default': {
-    #     'ENGINE': 'django.db.backends.mysql',
-    #     'NAME': "students",
-    #     "HOST": "127.0.0.1",
-    #     "PORT": 3306,
-    #     "USER": "root",
-    #     "PASSWORD":"ihee2024",
-    # },
 }
 
 
@@ -212,16 +163,14 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = "/static/"
-STATIC_ROOT = "/home/zuozhangqi/02_algicidedb/AlgaecideDBDjango/staticfiles"
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'algaecide/static'),
-]
-
-# MEDIA_URL = 'http://47.96.137.15:8031/media/'
 MEDIA_URL = '/media/'
-MEDIA_ROOT = "/home/zuozhangqi/02_algicidedb/AlgaecideDBDjango/media"
+# MEDIA_ROOT = BASE_DIR / 'media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'algaecide/static'),
+]

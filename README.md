@@ -1,6 +1,6 @@
 # AlgicideDB
 
-AlgicideDB is a comprehensive, manually curated database for algicidal compounds and their effects on harmful algal blooms (HABs). This platform provides valuable resources for researchers and practitioners working on HAB control and management.
+AlgicideDB is a comprehensive, manually curated database for algicidal compounds and their effects on harmful algal blooms (HABs). This platform (available at http://algicidedb.ocean-meta.com/#/) provides valuable resources for researchers and practitioners working on HAB control and management.
 
 ## Overview
 
@@ -71,7 +71,7 @@ The project consists of two main components:
 ### Prerequisites
 - Python 3.x
 - Node.js and npm
-- PostgreSQL
+- SQLite
 - Virtual environment (recommended)
 
 ### Installation
@@ -98,17 +98,6 @@ cd AlgicideDB_frontend
 npm install
 npm run serve
 ```
-
-## Usage
-
-1. Access the web interface at `http://localhost:8080`
-2. Use the search interface to explore the database
-3. Utilize the molecular property prediction tool for compound analysis
-4. Export data for further research and analysis
-
-## Contributing
-
-We welcome contributions to AlgicideDB! Please feel free to submit issues and pull requests.
 
 ## License
 
